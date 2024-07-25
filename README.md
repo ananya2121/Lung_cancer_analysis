@@ -1,18 +1,32 @@
 # Lung_cancer_analysis
 Table of Contents
+
 Introduction
+
 Project Overview
+
 Installation
+
 Usage
+
 Data
+
 Model Building
+
 Model Evaluation
+
 Model Interpretation
+
 Conclusion
+
 Contributing
+
 License
+
 Acknowledgements
+
 Introduction
+
 This project focuses on analyzing a medical diagnostics dataset to predict the presence of lung cancer. The analysis includes data preprocessing, exploratory data analysis (EDA), model building, hyperparameter tuning, model evaluation, and model interpretation using SHAP (SHapley Additive exPlanations).
 
 Project Overview
