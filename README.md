@@ -1,29 +1,15 @@
 # Lung_cancer_analysis
-Table of Contents
+## Table of Contents
 
-Introduction
-
-Project Overview
-
-Installation
-
-Usage
-
-Data
-
-Model Building
-
-Model Evaluation
-
-Model Interpretation
-
-Conclusion
-
-Contributing
-
-License
-
-Acknowledgements
+- [Introduction](#introduction)
+- [Loading the Data](#loading-the-data)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Preprocessing](#data-preprocessing)
+- [Feature Engineering](#feature-engineering)
+- [Model Building](#model-building)
+- [Model Evaluation](#model-evaluation)
+- [Model Interpretation with SHAP](#model-interpretation-with-shap)
+- [Conclusion](#conclusion)
 
 Introduction
 
